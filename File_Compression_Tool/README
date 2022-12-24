@@ -1,0 +1,17 @@
+Nick Ambrose niambros
+
+I want to formally apologize for using global variables. I was thinking about refacotring it to use addresses instead,
+but didn't want to risk creating a bug.
+
+Here's a deal I propose:
+
+You don't take off any points for me using globals this time, but if you ever catch me doing it again, you can fail me.
+
+Let me know what you think.
+
+Also, please be kind about me failing the binary test case. I spent a good amount of time trying to find out the issue, but 
+given the nature of the data we are working with in that file, I found it incredably difficult to debug.
+
+Thanks,
+
+Nick
